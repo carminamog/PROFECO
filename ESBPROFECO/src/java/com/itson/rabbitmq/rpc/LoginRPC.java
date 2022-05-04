@@ -22,7 +22,7 @@ import java.util.logging.Logger;
  * @author Juan Pablo
  */
 public class LoginRPC {
-
+    
     private String requestQueueName = "rpc_queuelogin";
 
     private Connection connection;
